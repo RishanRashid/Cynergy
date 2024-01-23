@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        let authToken = getAuthToken()
+      let authToken = getAuthToken()
         signInButton.backgroundColor = UIColor(red: 0.43, green: 0.62, blue: 0.19, alpha: 1.00)
         signUpButton.backgroundColor = UIColor(red: 0.43, green: 0.62, blue: 0.19, alpha: 1.00)
         GuestButton.backgroundColor = UIColor(red: 0.43, green: 0.62, blue: 0.19, alpha: 1.00)
