@@ -19,7 +19,6 @@ class roomDeatailsViewController: UIViewController {
         ContButton.layer.cornerRadius = 20
         ContButton.clipsToBounds = true
         ContButton.backgroundColor = UIColor(red: 0.43, green: 0.62, blue: 0.19, alpha: 1.00)
-        // Do any additional setup after loading the view.
     }
     
     
