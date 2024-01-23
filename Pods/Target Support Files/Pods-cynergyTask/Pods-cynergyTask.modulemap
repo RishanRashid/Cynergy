@@ -1,0 +1,6 @@
+framework module Pods_cynergyTask {
+  umbrella header "Pods-cynergyTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
